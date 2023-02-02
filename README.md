@@ -11,7 +11,7 @@ A ferramenta utililzada para o projeto foi: MySQL
 Perguntas e respostas:
 ----------------------------------------------------------------------------------------------------------------------------------------------
 1°-Existem outras entidades além dessas três?
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 -Sim, as entidades foram relacionadas com outras entidades para agregar as que foram solicitadas
 ----------------------------------------------------------------------------------------------------------------------------------------------
 2°-Quais são os principais campos e tipos?
